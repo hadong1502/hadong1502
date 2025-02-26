@@ -16,30 +16,24 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌟 About Me
+## About Me
 I'm a senior at Amherst College, triple majoring in **Neuroscience**, **Physics**, and **Mathematics**. My interdisciplinary background spans computational biology, machine learning, and neuroscience, driven by a passion for making scientific and educational breakthroughs accessible to all.
 
-## 🎓 Academic Journey
-- 🔬 **Neuroscience Research**:
+## Academic Journey
+- **Neuroscience Research**:
   - Protein interactions in the Drosophila NMJ and mitochondrial research in zebrafish hair cells.
   - The neural underpinings of hunting in mouse.
-- 💻 **Computational Projects**: 
+- **Computational Projects**: 
   - Developed machine learning models for drug discovery and published on AI applications in neurodegeneration.
   - Created a closed-loop hunting system for mice using computer vision, enabling behavioral and electrophysiological analysis.
-- 🧮 **Mathematical Expertise**: Applied graph theory and combinatorics to bioinformatics and AI problems.
 
-## 💼 Professional Experience
+## Professional Experience
 - Interned at **Vanderbilt University's Meiler Lab**: Applied graph neural networks for drug discovery.
 - Collaborated with **Caltech's Meister Lab**: Innovated tools for studying naturalistic animal behavior.
 - Trained at **MIT Break Through Tech AI** and **Alkermes Plc**: Experienced in probabilistic models and applications in drug discovery.
 
-## ✏️ Creative Passions
-- 🖌️ Sketching and photography.
-- ✏️ Writing.
-- 🎥 Filming documentaries.
-
-## 🤝 Connect with Me
-- 🌐 LinkedIn: [Ha Dong](https://www.linkedin.com/in/ha-dong-ngoc/)
-- 📧 Email: hdong26@amherst.edu
+## Connect with Me
+- LinkedIn: [Ha Dong](https://www.linkedin.com/in/ha-dong-ngoc/)
+- Email: hdong26@amherst.edu
 
 Let's collaborate! 🚀
