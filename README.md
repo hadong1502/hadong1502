@@ -21,11 +21,10 @@ I'm a senior at Amherst College, triple majoring in **Neuroscience**, **Physics*
 
 ## Academic Journey
 - **Neuroscience Research**:
-  - Protein interactions in the Drosophila NMJ and mitochondrial research in zebrafish hair cells.
-  - The neural underpinings of hunting in mouse.
+  - Naturalistic hunting in mice.
+  - Odor-guided trail-following behavior in mice. 
 - **Computational Projects**: 
-  - Developed machine learning models for drug discovery and published on AI applications in neurodegeneration.
-  - Created a closed-loop hunting system for mice using computer vision, enabling behavioral and electrophysiological analysis.
+  - Developed machine learning models/benchmark for drug discovery.
 
 ## Professional Experience
 - Interned at **Vanderbilt University's Meiler Lab**: Applied graph neural networks for drug discovery.
