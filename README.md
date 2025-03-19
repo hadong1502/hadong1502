@@ -21,6 +21,7 @@ I'm a senior at Amherst College, triple majoring in **Neuroscience**, **Physics*
 
 ## Academic Journey
 - **Neuroscience Research**:
+  - Startle behaviors in zebrafish.
   - Naturalistic hunting in mice.
   - Odor-guided trail-following behavior in mice. 
 - **Computational Projects**: 
